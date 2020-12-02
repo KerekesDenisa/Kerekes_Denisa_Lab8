@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Models\Kerekes_Denisa_Lab9Context.cs" />
     <Compile Remove="Pages\Index.cshtml.cs" />
   </ItemGroup>
 
